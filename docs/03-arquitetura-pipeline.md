@@ -5,6 +5,8 @@ A solução foi projetada para integrar dados de vendas provenientes de ambiente
 
 A arquitetura adota uma abordagem modular, permitindo fácil manutenção, evolução e reuso dos componentes.
 
+![Arquitetura da Pipeline](../images/arquitetura_pipeline.png)
+
 ## Fontes de Dados
 - Banco de dados SQL Server (on-premise) – Empresa A
 - Banco de dados PostgreSQL (AWS RDS) – Empresa B
