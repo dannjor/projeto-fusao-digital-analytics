@@ -27,10 +27,16 @@ Integrar, tratar e disponibilizar dados de vendas das duas empresas por meio de 
 - Eliminação de divergências entre bases
 - Apoio à tomada de decisão com dados centralizados
 
-## 📈 Dashboard
-![Dashboard](images/dashboard_visao_geral.png)
-
 ## 🚀 Próximos Passos
 - Evolução do monitoramento com ferramentas como Grafana
 - Versionamento de dados
 - Inclusão de novas fontes e métricas analíticas
+
+## 🧱 Arquitetura da Solução
+![Arquitetura](images/arquitetura_pipeline.png)
+
+## ⚙️ Orquestração com Apache Airflow
+![DAG Airflow](images/airflow_dag.jpg)
+
+## 📊 Dashboard Power BI
+![Dashboard](images/dashboard_powerbi.png)
