@@ -30,3 +30,18 @@ A orquestração do fluxo de dados foi realizada utilizando **Apache Airflow**, 
 - Monitorar falhas e status das execuções
 
 As DAGs seguem o fluxo:
+
+## Infraestrutura e Deploy
+- Ambiente conteinerizado com **Docker Compose**
+- Apache Airflow 2.9.1 com **CeleryExecutor**
+- Comunicação entre containers e bancos externos via ODBC e conectores nativos
+- Arquitetura preparada para escalabilidade horizontal
+
+## Consumo Analítico
+Os dados consolidados na camada Gold são disponibilizados para:
+- Dashboards no Power BI
+- Relatórios gerenciais
+- Análises exploratórias e tomadas de decisão estratégicas
+
+Essa arquitetura garante uma fonte única da verdade, reduzindo inconsistências e aumentando a confiabilidade das informações.
+
