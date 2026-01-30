@@ -39,4 +39,4 @@ Integrar, tratar e disponibilizar dados de vendas das duas empresas por meio de 
 ![DAG Airflow](images/airflow_dag.jpg)
 
 ## 📊 Dashboard Power BI
-![Dashboard](images/dashboard_powerbi.png)
+![Dashboard](images/Dashboard.png)
