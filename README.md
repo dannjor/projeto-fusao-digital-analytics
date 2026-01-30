@@ -1,4 +1,4 @@
-# Projeto Fusão Digital – Análise de Dados e BI
+# Projeto Fusão Digital – Arquitetura e Engenharia de Dados e BI
 
 ## 📌 Contexto
 Com a fusão entre duas empresas que operavam em infraestruturas distintas (on-premise e cloud), surgiu a necessidade de integrar os dados de vendas em uma base centralizada, confiável e padronizada, permitindo análises consolidadas e suporte à tomada de decisão estratégica.
