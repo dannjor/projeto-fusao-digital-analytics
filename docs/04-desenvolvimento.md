@@ -1,5 +1,7 @@
 # 4. Desenvolvimento da Solução
 
+![Projeto Arquivos](images/projeto-arquivos.jpg)
+
 O desenvolvimento do projeto foi organizado em etapas incrementais, seguindo uma abordagem iterativa, permitindo validações contínuas e ajustes ao longo da construção da pipeline de dados.
 
 ## Etapa 1 — Preparação dos Ambientes e Bases
