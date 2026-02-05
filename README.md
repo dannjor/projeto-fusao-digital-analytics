@@ -21,10 +21,10 @@ Integrar, tratar e disponibilizar dados de vendas de duas empresas por meio de u
 A documentação detalhada do projeto está disponível nos arquivos abaixo:
 
 - [01 – Contexto do Desafio](docs/01-contexto-negocio.md)
-- [02 – Arquitetura da Solução](docs/02-hipoteses-objetivo.md)
-- [03 – Modelagem de Dados](docs/03-arquitetura-pipeline.md)
+- [02 – Hipoteses e Objetivo](docs/02-hipoteses-objetivo.md)
+- [03 – Arquitetura da Pipeline](docs/03-arquitetura-pipeline.md)
 - [04 – Desenvolvimento da Pipeline](docs/04-desenvolvimento.md)
-- [05 – Streaming e Processamento](docs/05-resultado-proximos-passos.md)
+- [05 – Resultados e Próximos Passos](docs/05-resultados-proximos-passos.md)
 
 ---
 
