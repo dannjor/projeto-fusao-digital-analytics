@@ -52,11 +52,12 @@ def executar_carga():
             caminho_local,
             bucket_s3,
             caminho_s3,
-            aws_access_key_id='AKIASE5KRM7HZPJRZ5J5',
-            aws_secret_access_key='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',
+            aws_access_key_id='',
+            aws_secret_access_key='',
             region_name='us-east-1'
         )
         
         print("✅ Arquivo exportado com sucesso para o diretório local e para o S3.")
 
     executar_load()
+
