@@ -1,10 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Airflow
+logs/
+
+# Ambiente
+.env
+
 # Sistema
 .DS_Store
 Thumbs.db
-
-# Power BI
-*.pbix.tmp
-*.pbit.tmp
-
-# Logs
-*.log
