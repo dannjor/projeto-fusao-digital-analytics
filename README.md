@@ -17,6 +17,18 @@ Integrar, tratar e disponibilizar dados de vendas de duas empresas por meio de u
 
 ---
 
+## 📚 Documentação do Projeto
+A documentação detalhada do projeto está disponível nos arquivos abaixo:
+
+- [01 – Contexto do Desafio](docs/01-contexto-do-desafio.md)
+- [02 – Arquitetura da Solução](docs/02-arquitetura-da-solucao.md)
+- [03 – Modelagem de Dados](docs/03-modelagem-de-dados.md)
+- [04 – Desenvolvimento da Pipeline](docs/04-desenvolvimento.md)
+- [05 – Streaming e Processamento](docs/05-processamento-com-spark.md)
+- [06 – Implantação e Execução](docs/06-implantacao-e-execucao.md)
+
+---
+
 ## 🔧 Arquitetura e Desenvolvimento
 - Pipeline de dados automatizada utilizando **Apache Airflow**
 - Execução em ambiente **Docker Compose**
